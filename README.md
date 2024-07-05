@@ -28,7 +28,7 @@ This project is a real-time group chat application built using Next.js and Appwr
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/srijankarki07/real-time-chat-app.git
+    git clone https://github.com/srijankarki07/Chat-App-using-Appwrite.git
     cd real-time-chat-app
     ```
 
